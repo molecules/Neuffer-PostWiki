@@ -1,6 +1,6 @@
 #!/bin/env perl
 package Neuffer::PostWiki;
-# ABSTRACT: Neuffer::PostWiki needs an ABSTRACT!
+# ABSTRACT: Posts pages to mutants.maizegdb.org
 
 #=============================================================================
 # STANDARD MODULES AND PRAGMAS
